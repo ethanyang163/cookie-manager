@@ -10,6 +10,10 @@ cookie-manager为管理cookie提供简易的方法。
 - 兼容所有浏览器
 
 ## 安装
+使用npm安装
+```console
+npm install @psyduck4u/cookie-manager
+```
 下载`cookie-manager.min.js`在你的项目中引入即可。
 ```html
 <script src="cookie-manager.min.js"></script>
