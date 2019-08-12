@@ -20,9 +20,10 @@ npm install @psyduck4u/cookie-manager
 ```
 
 ## 使用
-在引入`cookie-manager.min.js`之后，你就可以使用`CookieManager`对象了。
-
-也可以使用AMD，CommonJS，Node modules载入`CookieManager`对象。
+```js
+import CookieManager from '@psyduck4u/cookie-manager';
+```
+或者在引入`cookie-manager.min.js`之后，你就可以使用`CookieManager`对象了。
 
 ## 方法
 

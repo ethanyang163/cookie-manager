@@ -1,25 +1,27 @@
 {
-  "name": "@psyduck4u/cookie-manager",
-  "version": "1.0.2",
-  "description": "一个轻量、简单、易于使用的cookie管理库",
-  "main": "/dist/cookie-manager.min.js",
-  "directories": {
-    "example": "example"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/psyduck4you/cookie-manager.git"
-  },
-  "keywords": [
-    "cookie-manager"
-  ],
-  "author": "Yuxiang Yang",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/psyduck4you/cookie-manager/issues"
-  },
-  "homepage": "https://github.com/psyduck4you/cookie-manager#readme"
+    "name": "@psyduck4u/cookie-manager",
+    "version": "1.0.3",
+    "description": "一个轻量、简单、易于使用的cookie管理库",
+    "main": "/dist/cookie-manager.min.js",
+    "directories": {
+        "example": "example"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/psyduck4you/cookie-manager.git"
+    },
+    "keywords": [
+        "cookie-manager",
+        "cookie",
+        "cookie管理"
+    ],
+    "author": "Yuxiang Yang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/psyduck4you/cookie-manager/issues"
+    },
+    "homepage": "https://github.com/psyduck4you/cookie-manager#readme"
 }
